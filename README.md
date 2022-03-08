@@ -1,6 +1,6 @@
 
-### 参观叭！！！
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zJiangnan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ### 参观叭！！！
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zJiangnan&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![tree's GitHub stats](https://github-readme-stats.vercel.app/api?username=zJiangnan&hide=contribs,prs&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--
 ### 关注活跃
